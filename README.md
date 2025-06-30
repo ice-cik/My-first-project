@@ -14,6 +14,6 @@ This Data Analysis project aims to generate insight into the sales of the Amazon
 The data was given to me by DSA AFRICA 
 
 ### Tools Used
-* MS Excel
+* MS Excel (Data cleaning)
 
-* Power Bi
+* Power Bi (Visualisations)
